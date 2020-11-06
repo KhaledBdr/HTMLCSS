@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+}
+
+ul{
+    list-style-type: none;
+    margin-left: 30%;
+    padding: 0px;
+   
+}
+
+ul li{
+    background-color: dimgrey;
+    float: left;
+    width: 15%;
+}
+
+li a{
+    font-family: cursive;
+    font-size: 20px;
+    display: block;
+     color: black;
+     padding: 8px 0px 8px 30px;
+     text-decoration: none;
+}
+
+li a:hover{
+    background-color: white;
+}
+
+li a:active{
+    color: white;
+    background-color: black;
+}
+img{
+    margin: 1% 1% 1% 1%;
+}
+#img6{
+    margin-left: 17%;
+}
+
+h1{
+    color: dimgray;
+    font-family: cursive;
+    text-align: center;
+}
+
+#contact{
+    font-size: 30px;
+    text-align: center;
+    font-family: monospace;
+    color: gray;
+}
+
+span{
+    display: block;
+    text-align: end;
+    color: dimgray;
+    font-family: cursive;
+    font-size: 30px;
+}
